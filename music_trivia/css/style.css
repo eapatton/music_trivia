@@ -1,0 +1,139 @@
+body{
+    font-size: 20px;
+    font-family: 'Acme', sans-serif;
+    color: #73546F;
+    background: #D1F2EB; 
+}
+
+#container{
+    margin : 150px auto;
+    background-color: #FCE0F2;
+    height: 400px;
+    width : 800px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 15px 0px;
+    position: relative;
+}
+#start{
+    font-size: 33px;
+    font-weight: bolder;
+    width:120px;
+    height:180px;
+    border : 8px solid white;
+    text-align: center;
+    position: relative;
+    left:335px;
+    top:100px;
+    color : white;
+}
+#start:hover{
+    border: 3px solid #EF00DD;
+    color : #EF00DD;
+}
+
+#qImg{
+    width : 200px;
+    height : 200px;
+    position: absolute;
+    left : 20px;
+    top : 80px;
+}
+#qImg img{
+    width : 220px;
+    height : 220px;
+    border-radius: 30px;
+}
+
+#question{
+    width:550px;
+    height: 125px;
+    position: absolute;
+    right:0;
+    top:20px;
+    font-size: 1.4em;
+    padding: : 15px;
+    margin: 0px;
+}
+
+#choices{
+    width : 480px;
+    position: absolute;
+    left: 395px;
+    top : 100px;
+    padding : 10px;
+}
+.choice{
+    display: flex;
+    flex-direction: column;
+    width : 245px;
+    text-align: center;
+    border : 2px solid #B8ABB6;
+    border-radius: 7px;
+    padding : 10px;
+}
+.choice:hover{
+    border : 2px solid white;
+    font-weight: bold;
+}
+#progress{
+    width : 650px;
+    position: absolute;
+    bottom : 0px;
+    right : 70px;
+    padding:5px;
+    text-align: center;
+}
+.prog{
+    width : 30px;
+    height : 30px;
+    border: 1px solid #9C8399;
+    display: inline-block;
+    border-radius: 30%;
+    margin-left : 5px;
+    margin-right : 5px;
+}
+#scoreContainer{
+    margin : 20px auto;
+    background-color: white;
+    opacity: 0.8;
+    height: 400px;
+    width : 800px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 15px 0px;
+    position: relative;
+    display: none;
+}
+#scoreContainer img{
+    position: absolute;
+    top:120px;
+    left:365px;
+}
+#scoreContainer p{
+    position: absolute;
+    display: block;
+    width: 59px;
+    height: 59px;
+    top:150px;
+    left:365px;
+    font-size: 1.6em;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
