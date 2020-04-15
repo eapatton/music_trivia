@@ -1,4 +1,4 @@
-# music_trivia
+# Music Trivia
 
 Test your music knowledge here: 
 https://eapatton.github.io/music_trivia/ 
@@ -20,7 +20,7 @@ I made 15 music trivia questions all about musicians I enjoy.
 ## Unsolved problems
 - Certain formatting with CSS was not perfected, I wish I centered and aligned things more precisely.
 
-## The technologies used
+## Technologies used
 I had a div container that holds the start button, trivia game, and score
 I set the trivia game and score to display none at the first page.
 I use an event listener to start the game with a click.
