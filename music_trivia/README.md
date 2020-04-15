@@ -1,6 +1,7 @@
 # music_trivia
 
-A README.md file with an explanation of what the project is and why you made it, your user stories, explanations of the technologies used, the approach taken, installation instructions, unsolved problems, the other components previously indicated (if applicable). In this project, also include your wireframes in the readme.
+Test your music knowledge here: 
+https://eapatton.github.io/music_trivia/ 
 
 I made this game because I enjoy tivia and music 
 I am not much of a video game player but I love board games and trivia.
