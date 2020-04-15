@@ -3,23 +3,24 @@
 Test your music knowledge here: 
 https://eapatton.github.io/music_trivia/ 
 
-I made this game because I enjoy tivia and music 
+I made this game because I enjoy trivia and music 
 I am not much of a video game player but I love board games and trivia.
 I made 15 music trivia questions all about musicians I enjoy.
 
-The User stories
-The user begins on a screen with an event listener, to click on the start button to begin the game
-From there the user has a 4 multiple choice answers for each question
-When you hover over the answer the border changes color
-The user clicks on the answer they want and then the game proceeds to the next question
-The bar on the bottom is a progress bar
-When the player answers the question with the correct answer the progress bar in association with that question turns mint green and if the answer is incorrect the color turns a light pink. 
-There are 15 questions that all react the same in terms of the click for answer and move to next question and progress bar color change.
-At the end, a score is calculated and an emoji is displayed for the percentage correct
+## The User stories
+- The user begins on a screen with an event listener, to click on the start button to begin the game
+- From there the user has a 4 multiple choice answers for each question
+- When you hover over the answer the border changes color
+- The user clicks on the answer they want and then the game proceeds to the next question
+- The bar on the bottom is a progress bar
+- When the player answers the question with the correct answer the progress bar in association with that question turns mint green and if the answer is incorrect the color turns a light pink. 
+- There are 15 questions that all react the same in terms of the click for answer and move to next question and progress bar color change.
+- At the end, a score is calculated and an emoji is displayed for the percentage correct
 
-Unsolved problems- certain formatting with CSS was not perfected, I wish I centered and aligned things more precisely.
+## Unsolved problems
+- Certain formatting with CSS was not perfected, I wish I centered and aligned things more precisely.
 
-The technologies used
+## The technologies used
 I had a div container that holds the start button, trivia game, and score
 I set the trivia game and score to display none at the first page.
 I use an event listener to start the game with a click.
